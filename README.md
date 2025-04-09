@@ -22,7 +22,11 @@ A simple yet powerful **Movie App** built using **React** and **Appwrite**. This
     - Appwrite (for movie data and storage)
 
 ## 📸 Screenshots
-https://github.com/AhmedMaherHosny/Movie-App-React.js/blob/master/screenshot.png
+
+> Here are full screenshot of the app:
+
+- **Full Screen**  
+  ![Full Screen](https://github.com/AhmedMaherHosny/Movie-App-React.js/blob/master/screenshot.png)
 
 ## 📦 Installation
 
