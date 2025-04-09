@@ -14,9 +14,9 @@ A simple yet powerful **Movie App** built using **React** and **Appwrite**. This
 
 - **Frontend:**
     - React.js
-    - Axios (for API calls)
+    - Axios 
     - React Router
-    - TailwindCSS (or your choice of styling framework)
+    - TailwindCSS 
 
 - **Backend (for Appwrite integration):**
     - Appwrite (for movie data and storage)
